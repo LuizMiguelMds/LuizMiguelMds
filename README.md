@@ -1,4 +1,5 @@
 <table>
+  <tr>
 <div align="center">
   <pre style="font-family: monospace; font-size: 16px;">
 ██╗     ██╗   ██╗██╗███████╗    ███╗   ███╗██╗ ██████╗ ██╗   ██╗███████╗██╗         ███╗   ███╗██████╗ ███████╗
@@ -14,7 +15,18 @@
   <img src="https://i.pinimg.com/originals/d8/c7/cb/d8c7cb35f8140faf52516ace3aa8351b.gif" alt="pokemon cemitery" style="width: 100%;"/>
   </td>
   <td style="width: 70%; vertical-align: top;">
+      <pre style="font-family: 'Courier New', monospace; font-size: 16px; color: #50fa7b; background-color: #1e1e1e; padding: 10px; border-radius: 5px;">
+👾 About Me:
+Sou um entusiasta de tecnologia que adora programar,
+graduando em S.I pela Universidade Estadual de Montes Claros
+Meu objetivo é transformar ideias criativas em ferramentas úteis, jogos emocionantes,
+e experiências inesquecíveis para os usuários. 🎮⚙️💡
+  
+A programação me permite explorar novos mundos, mudar perspectivas, e fazer
+a diferença — seja em um app, um jogo, ou uma solução inovadora. 🚀🌟
+      </pre>
   </td>
+  </tr>
 </table>  
 
 <details>
