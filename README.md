@@ -38,11 +38,14 @@ pessoas através de minhas criações.
   </tr>
 </table>  
 
-<details>
-<summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
-<br>
-  <img src="https://leetcard.jacoblin.cool/Rafael_Volkmer?theme=nord&font=JetBrains%20Mono" height="163" alt="LeetCode Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="163" alt="Stats Graph" />
-<br>
-</details>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
 
+<a href="https://github.com/Elyz0/">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizMiguelMds&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=AE00FF&icon_color=AE00FF&text_color=D3D3D3&bg_color=0,000000,300047" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyz0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=AE00FF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,300047" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>   
+
+##
