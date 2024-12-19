@@ -11,7 +11,7 @@
   </pre>
 </div> 
 
-  <td style="width: 30%;">
+##  <td style="width: 30%;">
   <img src="https://i.pinimg.com/originals/d8/c7/cb/d8c7cb35f8140faf52516ace3aa8351b.gif" alt="pokemon cemitery" style="width: 100%;"/>
   </td>
   <td style="width: 70%; vertical-align: top;">
