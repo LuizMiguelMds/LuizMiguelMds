@@ -16,14 +16,23 @@
   </td>
   <td style="width: 70%; vertical-align: top;">
       <pre style="font-family: 'Courier New', monospace; font-size: 16px; color: #50fa7b; background-color: #1e1e1e; padding: 10px; border-radius: 5px;">
-👾 About Me:
-Sou um entusiasta de tecnologia que adora programar,
-graduando em S.I pela Universidade Estadual de Montes Claros
-Meu objetivo é transformar ideias criativas em ferramentas úteis, jogos emocionantes,
-e experiências inesquecíveis para os usuários. 🎮⚙️💡
-  
-A programação me permite explorar novos mundos, mudar perspectivas, e fazer
-a diferença — seja em um app, um jogo, ou uma solução inovadora. 🚀🌟
+👾 About Me: 
+|Estudante de S.I
+|Game Developer
+|Dev Back-End
+💻 Habilidades:
+|C/C++
+|PHP
+|SQL
+|Infraestrutura de Hardware
+🖤 Interesses:
+|Game Design
+|Cyber Security
+|Desenvolvimento front-end
+♟️ Objetivos:
+|Ser capaz de criar experiências que
+sejam únicas e inspiradoras para as
+pessoas através de minhas criações.
       </pre>
   </td>
   </tr>
