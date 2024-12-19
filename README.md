@@ -46,6 +46,4 @@ pessoas através de minhas criações.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizMiguelMds&show_icons=true&locale=en&layout=compact&line_height=20&title_color=AE00FF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,300047" width="375"  alt="0xabdulkhalid"/>
 
 </a>
-</div>   
-
-##
+</div> 
