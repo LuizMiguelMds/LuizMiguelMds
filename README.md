@@ -22,13 +22,13 @@
 |Dev Back-End
 💻 Habilidades:
 |C/C++
-|PHP
+|Python
 |SQL
 |Infraestrutura de Hardware
 🖤 Interesses:
 |Game Design
 |Cyber Security
-|Desenvolvimento front-end
+|ML e AI
 ♟️ Objetivos:
 |Ser capaz de criar experiências que
 sejam únicas e inspiradoras para as
